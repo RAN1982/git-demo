@@ -5,3 +5,4 @@ now work with revert
 it is branch feature
 new adding
 --------------------
+no fst forward merge
