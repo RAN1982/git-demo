@@ -1,3 +1,4 @@
 Hello!
 Good by!
 Changed from git gui
+now work with revert
